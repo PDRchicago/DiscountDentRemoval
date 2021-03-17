@@ -1,15 +1,15 @@
-@import url(//db.onlinewebfonts.com/c/e911bf3e7ee8390357960414eeec00cf?family=AndantinoJF);
+@import url(https://db.onlinewebfonts.com/c/e911bf3e7ee8390357960414eeec00cf?family=AndantinoJF);
 
 @font-face {
     font-family: "AndantinoJF";
-    src: url("e911bf3e7ee8390357960414eeec00cf.eot");
+    src: url("../../@font-face/e911bf3e7ee8390357960414eeec00cf.eot");
 
     /* IE9 */
-    src: url("e911bf3e7ee8390357960414eeec00cf.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
-  url("e911bf3e7ee8390357960414eeec00cf.woff2") format("woff2"), /* chrome、firefox */
-  url("e911bf3e7ee8390357960414eeec00cf.woff") format("woff"), /* chrome、firefox */
-  url("e911bf3e7ee8390357960414eeec00cf.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
-  url("e911bf3e7ee8390357960414eeec00cf.svg#AndantinoJF") format("svg");
+    src: url("../../@font-face/e911bf3e7ee8390357960414eeec00cf.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+  url("../../@font-face/e911bf3e7ee8390357960414eeec00cf.woff2") format("woff2"), /* chrome、firefox */
+  url("../../@font-face/e911bf3e7ee8390357960414eeec00cf.woff") format("woff"), /* chrome、firefox */
+  url("../../@font-face/e911bf3e7ee8390357960414eeec00cf.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url("../../@font-face/e911bf3e7ee8390357960414eeec00cf.svg#AndantinoJF") format("svg");
 
     /* iOS 4.1- */
 }
