@@ -515,7 +515,7 @@ ul i {
     }
 
     #hero .hero-img img {
-        width: 70%;
+        width: 80%;
     }
 }
 
@@ -526,7 +526,7 @@ ul i {
 
     #hero .btn-get-started {
         font-size: 16px;
-        padding: 10px 24px 11px 24px;
+        padding: 10px 20px 11px 20px;
     }
 }
 
@@ -1559,6 +1559,12 @@ img {
     background: #209dd8;
     color: #fff;
     text-decoration: none;
+}
+
+.icons {
+    align-content: center;
+    float: right;
+    padding-right: 50px;
 }
 
 #footer .footer-bottom {
