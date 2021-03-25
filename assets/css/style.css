@@ -17,6 +17,7 @@
 body {
     font-family: "Open Sans", sans-serif;
     color: #444444;
+    background-color: #162d3d;
 }
 
 a {
@@ -427,7 +428,7 @@ ul i {
 #hero h1 {
     margin: 0 0 10px 0;
     font-size: 48px;
-    font-weight: 700;
+    font-weight: normal;
     line-height: 56px;
     color: #fff;
 }
